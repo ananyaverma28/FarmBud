@@ -78,7 +78,7 @@ npm install npm@latest -g
 
 Installation
 1. Clone the repo
-git clone https://github.com/mushir2004/FarmBud.git
+git clone https://github.com/ananyaverma28/FarmBud.git
 
 2. Install NPM packages
 npm install
@@ -87,8 +87,6 @@ npm install
 npm start
 
 Contributions:
-
-@Ghostkwebb. 
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
@@ -100,6 +98,3 @@ Open a Pull Request
 
 License
 Distributed under the MIT License. See LICENSE for more information.
-
-Contact
-Project Link: https://github.com/mushir2004/FarmBud
